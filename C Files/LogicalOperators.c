@@ -19,10 +19,39 @@ int main(){
 
 
 
+    //OR OPERATOR EXAMPLE
+    float temp2 = 35;
+
+    if(temp2 < 0 || temp2 > 30){
+        printf("Weather is kinda bad dude");
+    }
+    else{
+        printf("The weather is good");
+    }
+
+    
+
+
+    //NOT OPERATOR EXAMPLE
+    bool sunny = true;
+
+    if(!sunny){
+        printf("It must be cloudy outside");
+    }
+    else{
+        printf("Must be sunny outside");
+    }
+
+
+    
+
+
+
+
 
 
     //OR OPERATOR
-    
+
 
     return 0;
 }
