@@ -1,0 +1,3 @@
+Hi there, I am Rahul.
+If you're reading this, you're probably good at reading .txt files using C.
+LMAO. C YA
