@@ -16,6 +16,7 @@ Year 1 Sem 2:- This semester had no coding or IT related subjects, due to the ge
 *Sem3
 Year 2 Sem 1:- This was the first semester where coding was properly introduced and data science topics were taught.
     Subjects:
+    
     1) Maths For Data Science (MFDS) - Probability and Statistics Intro (Ref. Book Intro to Statistics by SC Gupta)
     
     2) Intro To Data Analytics (Theory + Lab) - Python Jupyter Nb: Pandas/Numpy/Seaborn/Matplotlib libraries taught + Data Cleaning / Preprocessing 
