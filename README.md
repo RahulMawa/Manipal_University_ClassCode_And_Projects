@@ -3,20 +3,17 @@ This repo has all the files of code during classes and hw projects that I made /
 
 
 
-*Sem1
-
+*Sem1*
 Year 1 Sem 1:- Problem Solving Using Computers (PSUC) Subject was only there during the first year general Syllabus. I ended up getting an A for PSUC.
 
 
 
-*Sem2
-
+*Sem2*
 Year 1 Sem 2:- This semester had no coding or IT related subjects, due to the general first year Syllabus.
 
 
 
-*Sem3
-
+*Sem3*
 Year 2 Sem 1:- This was the first semester where coding was properly introduced and data science topics were taught.
     Subjects:
     
@@ -34,30 +31,25 @@ Year 2 Sem 1:- This was the first semester where coding was properly introduced 
  
  
  
-*Sem4
-
+*Sem4*
 Year 2 Sem 2:- 
 
 
 
-*Sem5
-
+*Sem5*
 Year 3 Sem 1:- 
 
 
 
-*Sem6
-
+*Sem6*
 Year 3 Sem 2:- 
 
 
 
-*Sem7
-
+*Sem7*
 Year 4 Sem 1:- 
 
 
 
-*Sem8
-
+*Sem8*
 Year 4 Sem 2:- 
