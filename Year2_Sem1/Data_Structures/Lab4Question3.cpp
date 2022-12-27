@@ -1,33 +1,29 @@
-//LAB 4 --- PROBLEM ONE --- FACTORIAL ---------------------------------------------------------------------------------
+//LAB 4 --- PROBLEM THREE --- FIBO ---------------------------------------------------------------------------------
 //--------------------------------------------------------------------------------------------------------------------
 //--------------------------------------------------------------------------------------------------------------------
-
 
 #include <iostream>
 using namespace std;
 
-int fact(int x){
-	if(x == 1){
+//fib try 2
+int fib(int x){
+	if(x==1 || x==0){
 		return x;
 	}
+	
 	else{
-		return (x * fact(x-1));
+		return (fib(x-1) + fib(x-2));
 	}
 }
 
-
 int main(){
-	
-	//factorial recursion
 	int num;
 	int final;
-	cout << "Enter a factorial number: "<< endl;
+	cout << "Enter a number: "<< endl;
 	cin >> num;
 	
-	//for(int i = 0; i < num; i++){
-		final = fact(num);
-	//}
+	final = fib(num);
+	cout << "Fibonacci Result: " << final << endl;
 	
-	cout << "result: "<< final << endl;
-	
+	return 0;
 }
